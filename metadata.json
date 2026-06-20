@@ -1,0 +1,6 @@
+{
+  "name": "Social Ads Management System",
+  "description": "Create, schedule, and monitor advertising campaigns across social channels with target demographics, smart AI copy generation, admin approvals, and interactive visual charts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
